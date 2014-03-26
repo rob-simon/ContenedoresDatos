@@ -36,7 +36,7 @@ public class Carta {
 
 	@Override
 	public String toString() {
-		return "Carta [numero=" + numero + ", pal=" + pal + "]";
+		return "Carta numero=" + numero + ", pal=" + pal;
 	}
 	
 	
